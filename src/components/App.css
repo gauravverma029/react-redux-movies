@@ -1,0 +1,10 @@
+body{
+  background: #cccccc;
+}
+.list-group{
+	max-height: 500px;
+    overflow: auto;
+}
+.thumbnail{
+	height: 232px;
+}
