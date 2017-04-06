@@ -31,6 +31,11 @@ Required Dependency
 
 ## Installation Guide
 
+### `npm install`
+
+For the downloading dependency npm package json<br>
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
